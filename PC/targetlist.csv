@@ -1,0 +1,6 @@
+﻿"index","ssid","pw","type","priority","count","ipv4","datetime"
+"1","ABCD_5GHz","abcd1234","WPA2","0","0","0","0"
+"2","ABCD_2GHz","abcd1234","WPA2","0","0","0","0"
+"3","qwerty5G","12345678","WPA2","0","0","0","0"
+"4","TokyoWiFi","tokyo2020","WPA2","0","0","0","0"
+"5","foobarfoo","barfoobar","WPA2","0","0","0","0"
